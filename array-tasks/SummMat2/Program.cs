@@ -14,7 +14,7 @@
             int[,] matrix2 = new int[rowCount, colCount];
             int[,] matrix3 = new int[rowCount, colCount];
 
-            
+
 
             for (var row = 0; row < rowCount; row++)
             {
@@ -30,7 +30,7 @@
                 for (var col = 0; col < colCount; col++)
                 {
                     matrix3[row, col] = matrix1[row, col] + matrix2[row, col];
-                    
+
                 }
             }
 
@@ -40,7 +40,7 @@
                 for (var col = 0; col < colCount; col++)
                 {
                     Console.Write($"{matrix1[row, col]}\t");
-                    
+
                 }
                 Console.Write($"\t\t");
                 for (var col = 0; col < colCount; col++)
@@ -51,15 +51,15 @@
                 for (var col = 0; col < colCount; col++)
                 {
                     Console.Write($"{matrix3[row, col]}\t");
-                    
+
                 }
                 Console.WriteLine();
 
-                
+
 
             }
-           
-           
-        } 
-}
+
+
+        }
+    }
 }
