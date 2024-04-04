@@ -1,0 +1,14 @@
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\separation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\separation.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\separation.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\separation.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\bin\Debug\net6.0\separation.exe
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\bin\Debug\net6.0\separation.deps.json
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\bin\Debug\net6.0\separation.runtimeconfig.json
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\bin\Debug\net6.0\separation.dll
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\bin\Debug\net6.0\separation.pdb
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\separation.dll
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\refint\separation.dll
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\separation.pdb
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\separation.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Skillboxgithub\method-tasks\separation\obj\Debug\net6.0\ref\separation.dll

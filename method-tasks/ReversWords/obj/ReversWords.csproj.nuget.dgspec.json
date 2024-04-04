@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\array-tasks\\Matrix1\\Matrix1.csproj": {}
+    "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\method-tasks\\ReversWords\\ReversWords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\array-tasks\\Matrix1\\Matrix1.csproj": {
+    "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\method-tasks\\ReversWords\\ReversWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\array-tasks\\Matrix1\\Matrix1.csproj",
-        "projectName": "Matrix1",
-        "projectPath": "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\array-tasks\\Matrix1\\Matrix1.csproj",
+        "projectUniqueName": "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\method-tasks\\ReversWords\\ReversWords.csproj",
+        "projectName": "ReversWords",
+        "projectPath": "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\method-tasks\\ReversWords\\ReversWords.csproj",
         "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\array-tasks\\Matrix1\\obj\\",
+        "outputPath": "C:\\Users\\Никита\\Desktop\\Skillboxgithub\\method-tasks\\ReversWords\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
